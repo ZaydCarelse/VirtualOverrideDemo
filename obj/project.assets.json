@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\zaydc\\projects\\InheritanceDemo\\VirtualOverrideDemo\\VirtualOverrideDemo.csproj",
+      "projectUniqueName": "C:\\Users\\zaydc\\projects\\VirtualOverrideDemo\\VirtualOverrideDemo.csproj",
       "projectName": "VirtualOverrideDemo",
-      "projectPath": "C:\\Users\\zaydc\\projects\\InheritanceDemo\\VirtualOverrideDemo\\VirtualOverrideDemo.csproj",
+      "projectPath": "C:\\Users\\zaydc\\projects\\VirtualOverrideDemo\\VirtualOverrideDemo.csproj",
       "packagesPath": "C:\\Users\\zaydc\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\zaydc\\projects\\InheritanceDemo\\VirtualOverrideDemo\\obj\\",
+      "outputPath": "C:\\Users\\zaydc\\projects\\VirtualOverrideDemo\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
